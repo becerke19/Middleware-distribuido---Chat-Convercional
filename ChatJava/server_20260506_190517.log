@@ -1,0 +1,10 @@
+[2026-05-06 19:05:18] === SERVIDOR INICIADO ===
+[2026-05-06 19:05:18] Servidor TCP escuchando en puerto 5555
+[2026-05-06 19:05:18] UDP Socket escuchando en puerto 5556
+[2026-05-06 19:05:40] ✅ Cliente conectado: Paulina desde 127.0.0.1
+[2026-05-06 19:05:56] ✅ Cliente conectado: Adri desde 127.0.0.1
+[2026-05-06 19:08:33] Cliente desconectado: Adri
+[2026-05-06 19:08:33] Usuarios restantes: 1
+[2026-05-06 19:08:38] Cliente desconectado: Paulina
+[2026-05-06 19:08:38] Usuarios restantes: 0
+[2026-05-06 19:08:43] Servidor apagándose...
